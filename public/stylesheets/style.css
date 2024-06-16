@@ -1,0 +1,16 @@
+body {
+  padding-top: 56px;
+}
+
+.navbar-nav .nav-item .nav-link {
+  padding-right: 20px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+#output {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
